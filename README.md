@@ -1,8 +1,6 @@
-# React + Vite
+# Application de météo en ReactJS
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Cette application a été créé par Ekbora dans le cadre de m'entraîner sur React et les différents Hooks (useEffect, useState).
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- N'hésitez pas à suggérer des modifications !
+- N'hésitez pas a donner votre avis et donner des aussi des conseils si vous le souhaiter !
