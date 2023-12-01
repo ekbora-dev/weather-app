@@ -1,0 +1,74 @@
+main {
+    height: 80vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.w-form {
+    display: flex;
+    flex-direction: column;
+}
+
+.w-form label {
+    text-align: center;
+}
+
+.w-form input {
+    background: #fff;
+    border-radius: 20px 0 0 20px;
+    padding: 10px;
+    border: #fff;
+    font-size: 15px;
+    outline: none;
+}
+
+.w-form button {
+    height: auto;
+    position: relative;
+    left: -15px;
+    border: none;
+    background: yellow;
+    padding: 10px;
+    border-radius: 0 20px 20px 0;
+    font-size: 15px;
+    cursor: pointer;
+}
+
+.w-card {
+    background: #938a8a;
+    padding: 10px;
+    border-radius: 20px;
+    margin-top: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    text-wrap: balance;
+}
+
+.w-card .w-main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+    margin-bottom: 10px;
+}
+
+.w-card .w-icon {
+    width: 100px;
+    height: 100px;
+}
+
+.w-card .w-description {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+    text-align: center;
+    padding: 10px;
+    gap: 10px;
+    background: #b9b9b9;
+    border-radius: 20px;
+}
