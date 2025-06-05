@@ -15,7 +15,7 @@ import {
 } from "@fortawesome/free-solid-svg-icons";
 
 function Home() {
-    const APIKey = "559c3446a6d5d692e2813e94444f84c6";
+    const APIKey = import.meta.env.VITE_API_KEY;
     const [city, setCity] = useState("");
     const [data, setData] = useState();
     const imgRef = useRef();
