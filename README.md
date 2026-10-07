@@ -5,7 +5,7 @@ Hello everyone ! This is my project of a weather developed with ReactJS framewor
 ## Installation
 1. Download & install [Git](https://git-scm.com/install/) and clone this repository with :
 ```bash
-git clone https://github.com/ekbora-dev/meteo-appli.git
+git clone https://github.com/ekbora-dev/weather-app.git
 ```
 2. Download & install [NodeJS](https://nodejs.org/en)
 3. Go to the cloned project folder and execute (on the terminal):
